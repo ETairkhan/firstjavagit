@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args){
-        Scanner scanner = new Scanner(System.in);
         int first = (1+1);
         int second = first + 3 * ( 2+5);
 
